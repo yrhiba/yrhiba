@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrhiba&theme=dark"/>
 </a>
 <a href="https://github.com/yrhiba?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=paji1&line_height=40&show_icons=true&theme=dark">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=yrhiba&line_height=40&show_icons=true&theme=dark">
 </a>
 
 <br/><br/>
