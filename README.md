@@ -6,7 +6,7 @@
 
 </div>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/paji1?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrhiba&theme=dark"/>
@@ -15,9 +15,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yrhiba&line_height=40&show_icons=true&theme=dark">
 </a>
 
-<br/><br/>
+<br/>
 
-- 🔭 I am currently a student at the 1337 Coding School.
+- 🔭 I am currently a 42 Network computer science student at the 1337 Coding School.
 - 🌱 I’m currently learning 
                             . c/c++
                             . shell
