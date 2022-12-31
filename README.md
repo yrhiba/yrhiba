@@ -27,8 +27,8 @@
 
 - I focus on competitive programming to improve my skills.
 
-- USERNAME CODEFORCES : <yrhiba>
-- USERNAME CODINGAME  : <yrhiba>
+- USERNAME CODEFORCES : < yrhiba >
+- USERNAME CODINGAME  : < yrhiba >
 
 - 📫 How to reach me: rhibayahya@gmail.com
 - ⚡ Fun fact: Am good at help if you have a bug! :)
