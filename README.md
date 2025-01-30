@@ -2,37 +2,49 @@
 
 # Hi there, I'm Yahya Rhiba 👋
 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rhiba_yahya)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yahya-rhiba)
+[![CodeForces](https://img.shields.io/badge/-CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yrhiba)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/yrhiba)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yrhiba)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yrhiba)
+
 </div>
 
-<br/>
+## About Me
 
-<a href="https://github.com/yrhiba?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrhiba&theme=dark&PAT_1=yrhiba"/>
-</a>
-<a href="https://github.com/yrhiba?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yrhiba&line_height=40&show_icons=true&theme=dark&PAT_1=yrhiba">
-</a>
+- 🎓 Currently a 42 Network computer science student at the 1337 Coding School
+- 💻 Passionate about software engineering and competitive programming
+- 🌱 Always learning and improving my skills
 
-<br/>
+## What I'm Learning
 
-- 🔭 I am currently a 42 Network computer science student at the 1337 Coding School.
-- 🌱 I’m currently learning 
-                            . DSA & Algorithms
-                            . c/c++
-                            . shell
-                            . Network & system administration
-                            . Web Dev
-                            . Graphics
+- 📊 Data Structures & Algorithms
+- 🖥️ C/C++
+- 🐚 Shell scripting
+- 🌐 Network & system administration
+- 🕸️ Web Development
+- 🎨 Graphics
 
-- I focus on competitive programming to improve my skills.
-- 📫 How to reach me: rhibayahya@gmail.com
+## My Focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rhiba_yahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rhiba_yahya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yahya-rhiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yahya-rhiba" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yrhiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yrhiba" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yrhiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yrhiba" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yrhiba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yrhiba" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yrhiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yrhiba" height="30" width="40" /></a>
-</p>
+I'm dedicated to honing my skills through competitive programming and practical projects. My goal is to become a well-rounded software engineer capable of tackling complex challenges.
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrhiba&theme=dark&PAT_1=yrhiba" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yrhiba&show_icons=true&theme=dark&PAT_1=yrhiba" alt="GitHub Stats" />
+</div>
+
+## Let's Connect!
+
+Feel free to reach out if you want to collaborate on a project, have any questions, or just want to chat about technology!
+
+📫 Email: rhibayahya@gmail.com
+
+<div align="center">
+
+### "The only way to do great work is to love what you do." - Steve Jobs
+
+</div>
